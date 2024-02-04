@@ -13,13 +13,13 @@ Experienced cybersecurity professional at Netsurion Technologies Private Limited
 # 📚 Education
 
 ## 🎓 Diploma in Electronics and Communication
-**Gudiyattam Polytechnic College**  *2009 – 2012*
+**Gudiyattam Polytechnic College** | *2009 – 2012*
 
 ## 🎓 Bachelor of Engineering in Electronics and Communication
-**Kingston Engineering College**  *2012 – 2015*
+**Kingston Engineering College** | *2012 – 2015*
 
 ## 🎓 Master of Engineering in Communication and Network Engineering
-**Madras Institute of Technology**  *2015 – 2017*
+**Madras Institute of Technology** | *2015 – 2017*
 
 ---
 # 💼 Skills
@@ -86,7 +86,7 @@ Experienced cybersecurity professional at Netsurion Technologies Private Limited
 - 📊 Security Advisory Creation, Threat feed research, and SIEM support.
 
 ## **Netsurion Technologies Private Limited | 2017 - 2021**
-### Security Analyst|Information/Senior Security Analyst
+### Security Analyst | Information/Senior Security Analyst
 
 - 🔍 Conducted comprehensive log analysis using SIEM tools.
 - 🎯 Led vulnerability assessment initiatives, prioritizing and remedying infrastructure vulnerabilities.
