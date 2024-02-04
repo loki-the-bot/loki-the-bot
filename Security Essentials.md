@@ -130,7 +130,7 @@
   - *Analysis:* The Zero Trust model assumes that threats may exist both outside and inside the network, requiring continuous authentication and authorization.
   - *Reference:* [Zero Trust Security - NIST](https://www.nist.gov/cybersecurity/zero-trust)
  
-Certainly! Below is the list of famous cybersecurity books formatted in **Markdown** with icons for different knowledge levels. You can easily replicate this in your GitHub repository:
+##Below is the list of famous cybersecurity books
 
 ### Beginner Level 🌱
 
