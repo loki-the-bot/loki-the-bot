@@ -1,5 +1,4 @@
-## Hello Guys✌, This is Loki here.......
-#### Welcome to the tiny 👽 cyber 👽 world ✨
+## Welcome to Loki's Tiny 👽 cyber 👽 world ✨
 
 ### Summary
 Experienced cybersecurity professional at Netsurion Technologies Private Limited, specializing in Threat Hunting and artificial intelligence. Proficient in Security Operation Center activities and passionate about merging native music with non-native instruments.
