@@ -10,6 +10,17 @@ Experienced cybersecurity professional at Netsurion Technologies Private Limited
 - 📫 How to reach me: lokibotai@gmail.com
 - ⚡ Fun fact: I enjoy playing traditional music from diverse cultures using unconventional instruments, creating a unique fusion of sounds. Ask me about my favorite non-native instrument! [watch a sample](https://youtu.be/MnWnMGLim2M?si=TaykWIrrVmMJFsRn)
 ---
+# 📚 Education
+
+## 🎓 Diploma in Electronics and Communication
+**Gudiyattam Polytechnic College**  *2009 – 2012*
+
+## 🎓 Bachelor of Engineering in Electronics and Communication
+**Kingston Engineering College**  *2012 – 2015*
+
+## 🎓 Master of Engineering in Communication and Network Engineering
+**Madras Institute of Technology**  *2015 – 2017*
+---
 # 💼 Skills
 
 - 🎯 **Threat Hunting**
@@ -57,7 +68,7 @@ Experienced cybersecurity professional at Netsurion Technologies Private Limited
 # 💼 Professional Experience
 
 ## **Netsurion Technologies Private Limited | 2022 - Present**
-### Assistant Manager – SOC Operations | Lead Security Analyst | Information/Senior Security Analyst
+### Assistant Manager – SOC Operations
 
 - 🚀 Led and managed a dynamic team for efficient cybersecurity operations.
 - 📘 Developed comprehensive SOPs, enhancing operational efficiency.
@@ -66,7 +77,7 @@ Experienced cybersecurity professional at Netsurion Technologies Private Limited
 - ☁️ AWS and Azure cloud monitoring, Auditing, Governance, and onboarding new customers.
 
 ## **Netsurion Technologies Private Limited | 2021 - 2022**
-### Security Analyst
+### Lead Security Analyst
 
 - 🚀 Orchestrated timely incident responses, and optimized threat detection capabilities.
 - 🛠️ Conducted customer review meetings to align security strategies.
@@ -74,27 +85,20 @@ Experienced cybersecurity professional at Netsurion Technologies Private Limited
 - 📊 Security Advisory Creation, Threat feed research, and SIEM support.
 
 ## **Netsurion Technologies Private Limited | 2017 - 2021**
-### Security Analyst
+### Security Analyst|Information/Senior Security Analyst
 
 - 🔍 Conducted comprehensive log analysis using SIEM tools.
 - 🎯 Led vulnerability assessment initiatives, prioritizing and remedying infrastructure vulnerabilities.
 - 🤝 Mentorship, Real-time alert creation, Application control monitoring.
 - 🔄 Patching, Operational Run book maintenance, Incident response fire drills.
 
----
-# 📚 Education
+# 👨‍💻 Cyber Security Internship
 
-## 🎓 Diploma in Electronics and Communication
-**Gudiyattam Polytechnic College**  
-*2009 – 2012*
+## **Honeywell Technologies | 2017**
 
-## 🎓 Bachelor of Engineering in Electronics and Communication
-**Kingston Engineering College**  
-*2012 – 2015*
+- 🛠️ Performed DLP alert monitoring and UEBA threat modeling.
+- 🌐 Conducted data classification POC and enhanced data using automation.
 
-## 🎓 Master of Engineering in Communication and Network Engineering
-**Madras Institute of Technology**  
-*2015 – 2017*
 ---
 ## 💼 Experience Highlights:
 
