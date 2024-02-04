@@ -138,45 +138,37 @@
 1. **Hacking: A Beginners’ Guide to Computer Hacking, Basic Security, And Penetration Testing**
     - **Author**: John Slavio
     - **Summary**: This beginner-friendly book covers the history of hacking, types of hackers, various hacking attacks, essential hacking tools, and more. It's an excellent starting point for anyone interested in ethical hacking.
-    - **Reference**: [🔗](https://www.amazon.com/Hacking-Beginners-Computer-Security-Penetration/dp/1539302897)
 
 2. **Social Engineering: The Science of Human Hacking**
     - **Author**: Christopher Hadnagy
     - **Summary**: Dive into the world of online exploitation and learn about common social engineering tricks. Discover countermeasures to keep hackers at bay.
-    - **Reference**: [🔗](https://www.amazon.com/Social-Engineering-Science-Human-Hacking/dp/111943338X)
 
 3. **Cybersecurity for Dummies**
     - **Author**: Joseph Steinberg
     - **Summary**: A comprehensive guide for beginners, covering essential cybersecurity concepts, threats, and best practices.
-    - **Reference**: [🔗](https://www.amazon.com/Cybersecurity-Dummies-Joseph-Steinberg/dp/1119560328)
 
 ### Intermediate Level 🚀
 
 4. **The Art of Invisibility: The World’s Most Famous Hacker Teaches You How to Be Safe in the Age of Big Brother and Big Data**
     - **Author**: Kevin Mitnick
     - **Summary**: Real-world tactics to protect your privacy online, including VPNs, untraceable transactions, and password protection.
-    - **Reference**: [🔗](https://www.amazon.com/Art-Invisibility-Worlds-Teaches-Brother/dp/0316380504)
 
 5. **Hacking: The Art of Exploitation**
     - **Author**: Jon Erickson
     - **Summary**: Explore network security and computer security from a hacker's perspective. Introduces C programming.
-    - **Reference**: [🔗](https://www.amazon.com/Hacking-Art-Exploitation-Jon-Erickson/dp/1593271441)
 
 6. **The Fifth Domain: Defending Our Country, Our Companies, and Ourselves in the Age of Cyber Threats**
     - **Author**: Richard A. Clarke and Robert K. Knake
     - **Summary**: A comprehensive look at cybersecurity challenges faced by governments, businesses, and individuals.
-    - **Reference**: [🔗](https://www.amazon.com/Fifth-Domain-Defending-Country-Companies/dp/0525561972)
 
 ### Advanced Level 🧠
 
 7. **Cult of the Dead Cow: How the Original Hacking Supergroup Might Just Save the World**
     - **Author**: Joseph Menn
     - **Summary**: A deep dive into the history of hacking and the influential hacking group "Cult of the Dead Cow." Explores their impact on cybersecurity and society.
-    - **Reference**: [🔗](https://www.amazon.com/Cult-Dead-Cow-Original-Supergroup/dp/154176238X)
 
 8. **Ghost in the Wires: My Adventures as the World's Most Wanted Hacker**
     - **Author**: Kevin Mitnick
     - **Summary**: Kevin Mitnick's memoir recounts his hacking escapades, evading authorities, and the cat-and-mouse game with law enforcement.
-    - **Reference**: [🔗](https://www.amazon.com/Ghost-Wires-Adventures-Worlds-Wanted/dp/0316037702)
 
-Feel free to use these Markdown links in your GitHub repository! 📚🔒
+
