@@ -11,7 +11,7 @@ Experienced cybersecurity professional at Netsurion Technologies Private Limited
 - ⚡ Fun fact: I enjoy playing traditional music from diverse cultures using unconventional instruments, creating a unique fusion of sounds. Ask me about my favorite non-native instrument! [watch a sample](https://youtu.be/MnWnMGLim2M?si=TaykWIrrVmMJFsRn)
 ---
 
-### 👨‍💻 SOC Analyst Daily Routines
+### 👨‍💻 My Routines
 
 - 🌐 **Continuous Monitoring:** Keep a vigilant eye on security alerts using cutting-edge SIEM tools.
 - 🔍 **Incident Detection and Analysis:** Investigate and analyze security incidents, leveraging threat intelligence for deeper insights.
@@ -23,4 +23,4 @@ Experienced cybersecurity professional at Netsurion Technologies Private Limited
 - 📝 **Documentation:** Maintain detailed incident reports and up-to-date security documentation.
 - 👥 **Collaboration:** Foster effective teamwork within the SOC and communicate seamlessly with external partners.
 - 🧰 **Tool Maintenance:** Ensure optimal performance of security tools and evaluate new solutions for enhanced capabilities.
-- 🔄 **Continuous Improvement:** Participate in post-incident reviews and stay ahead with emerging threats and technologies.
+- 🔄 **Continuous Improvement:** Participate in post-incident reviews and stay ahead of emerging threats and technologies.
