@@ -20,6 +20,7 @@ Experienced cybersecurity professional at Netsurion Technologies Private Limited
 
 ## 🎓 Master of Engineering in Communication and Network Engineering
 **Madras Institute of Technology**  *2015 – 2017*
+
 ---
 # 💼 Skills
 
