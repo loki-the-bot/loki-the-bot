@@ -1,6 +1,6 @@
 ## Welcome to Loki's Tiny 👽 cyber 👽 world ✨
 
-### It's Me
+### About Me
 Experienced cybersecurity professional at Netsurion Technologies Private Limited, specializing in Threat Hunting and artificial intelligence. Proficient in Security Operation Center activities and passionate about merging native music with non-native instruments.
 
 - 🔭 Currently working as a cybersecurity professional at Netsurion Technologies Private Limited
@@ -93,9 +93,8 @@ Experienced cybersecurity professional at Netsurion Technologies Private Limited
 - 🤝 Mentorship, Real-time alert creation, Application control monitoring.
 - 🔄 Patching, Operational Run book maintenance, Incident response fire drills.
 
-# 👨‍💻 Cyber Security Internship
-
 ## **Honeywell Technologies | 2017**
+### 👨‍💻 Intern Cyber Security Analyst
 
 - 🛠️ Performed DLP alert monitoring and UEBA threat modeling.
 - 🌐 Conducted data classification POC and enhanced data using automation.
