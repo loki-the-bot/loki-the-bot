@@ -129,3 +129,71 @@
   - *Example:* Verifying every user and device accessing the network, regardless of location.
   - *Analysis:* The Zero Trust model assumes that threats may exist both outside and inside the network, requiring continuous authentication and authorization.
   - *Reference:* [Zero Trust Security - NIST](https://www.nist.gov/cybersecurity/zero-trust)
+ 
+# Cybersecurity Books 📚🛡️
+
+## Beginner Level:
+
+1. **"The Web Application Hacker's Handbook" by Dafydd Stuttard and Marcus Pinto**
+   - *Summary:* A practical guide for understanding and exploiting web application vulnerabilities, covering hacking techniques and how to secure web applications.
+   - *Link:* [The Web Application Hacker's Handbook](https://www.owasp.org/index.php/OWASP_Samurai_WTF/Book/1_Introduction_to_Web_Application_Security)
+
+2. **"Hacking: The Art of Exploitation" by Jon Erickson**
+   - *Summary:* Introduction to hacking with hands-on examples of exploiting vulnerabilities, including topics like buffer overflows, shellcode, and more.
+   - *Link:* [Hacking: The Art of Exploitation](https://nostarch.com/hacking2.htm)
+
+3. **"Metasploit: The Penetration Tester's Guide" by David Kennedy, Jim O'Gorman, Devon Kearns, and Mati Aharoni**
+   - *Summary:* A guide to using the Metasploit penetration testing framework for various security testing purposes.
+   - *Link:* [Metasploit: The Penetration Tester's Guide](https://www.metasploitunleashed.com/metasploitthepenetrationtestersguide.pdf)
+
+4. **"Network Security Essentials" by William Stallings**
+   - *Summary:* Comprehensive introduction to network security concepts, protocols, and practices, covering firewalls, VPNs, intrusion detection systems, and more.
+   - *Link:* [Network Security Essentials](https://www.amazon.com/Network-Security-Essentials-Applications-William/dp/0136108059)
+
+## Intermediate Level:
+
+5. **"CISSP All-in-One Exam Guide" by Shon Harris**
+   - *Summary:* A comprehensive guide for preparing for the Certified Information Systems Security Professional (CISSP) exam, covering the eight domains of information security.
+   - *Link:* [CISSP All-in-One Exam Guide](https://www.amazon.com/CISSP-All-One-Exam-Guide/dp/1260142655)
+
+6. **"The Art of Deception: Controlling the Human Element of Security" by Kevin D. Mitnick and William L. Simon**
+   - *Summary:* Insights into social engineering and the human side of security by former hacker Kevin Mitnick, exploring how people can be manipulated to compromise security.
+   - *Link:* [The Art of Deception](https://www.amazon.com/Art-Deception-Controlling-Element-Security/dp/076454280X)
+
+7. **"Zero Trust Networks: Building Secure Systems in Untrusted Networks" by Evan Gilman and Doug Barth**
+   - *Summary:* This book explores the Zero Trust security model, providing insights into building secure systems in untrusted networks.
+   - *Link:* [Zero Trust Networks](https://www.oreilly.com/library/view/zero-trust-networks/9781491962187/)
+
+8. **"Blue Team Handbook: Incident Response Edition" by Don Murdoch and Kim Parsons**
+   - *Summary:* A practical guide for incident response teams, covering key strategies and tactics to effectively respond to cybersecurity incidents.
+   - *Link:* [Blue Team Handbook](https://www.amazon.com/Blue-Team-Handbook-condensed-responders/dp/1500734756)
+
+## Advanced Level:
+
+9. **"Cryptography and Network Security: Principles and Practice" by William Stallings**
+   - *Summary:* A comprehensive guide to cryptography and network security principles, covering encryption, digital signatures, network protocols, and more.
+   - *Link:* [Cryptography and Network Security](https://www.amazon.com/Cryptography-Network-Security-Principles-Practice/dp/0134444280)
+
+10. **"Practical Malware Analysis: The Hands-On Guide to Dissecting Malicious Software" by Michael Sikorski and Andrew Honig**
+    - *Summary:* A hands-on guide for analyzing and dissecting malicious software, providing practical techniques for malware analysis.
+    - *Link:* [Practical Malware Analysis](https://www.amazon.com/Practical-Malware-Analysis-Hands-Dissecting/dp/1593272901)
+
+11. **"Social Engineering: The Art of Human Hacking" by Christopher Hadnagy**
+    - *Summary:* Explores the psychological aspects of social engineering, providing insights into manipulating people to gain access to confidential information.
+    - *Link:* [Social Engineering: The Art of Human Hacking](https://www.amazon.com/Social-Engineering-Art-Human-Hacking/dp/0470639539)
+
+12. **"The Cybersecurity Canon: Books Every Cybersecurity Professional Should Read" by Rick Howard**
+    - *Summary:* A curated list of essential books for cybersecurity professionals, covering various aspects of the field.
+    - *Link:* [The Cybersecurity Canon](https://www.paloaltonetworks.com/cyberpedia/the-cybersecurity-canon)
+
+13. **"Ghost in the Wires: My Adventures as the World's Most Wanted Hacker" by Kevin D. Mitnick and William L. Simon**
+    - *Summary:* Kevin Mitnick's autobiography, recounting his experiences as a hacker and his interactions with law enforcement.
+    - *Link:* [Ghost in the Wires](https://www.amazon.com/Ghost-Wires-Adventures-Worlds-Wanted/dp/0316037729)
+
+14. **"The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win" by Gene Kim, Kevin Behr, and George Spafford**
+    - *Summary:* A novel that explores the challenges of IT management, DevOps practices, and improving organizational efficiency.
+    - *Link:* [The Phoenix Project](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business-ebook/dp/B078Y98RG8)
+
+15. **"The Tangled Web: A Guide to Securing Modern Web Applications" by Michal Zalewski**
+    - *Summary:* This book delves into the complexities of web security, covering
+
